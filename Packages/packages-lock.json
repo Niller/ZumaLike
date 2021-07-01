@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.leopotam.ecslite": {
+      "version": "https://github.com/Leopotam/ecslite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "52af6cf3e1aa910bdb5ac92490a8b777c0d99ddf"
+    },
+    "com.leopotam.ecslite.threads.unity": {
+      "version": "https://github.com/Leopotam/ecslite-threads-unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "7f6674d69811cd1cd631c9aeffc8922b7e75c28c"
+    },
+    "com.leopotam.ecslite.unityeditor": {
+      "version": "https://github.com/Leopotam/ecslite-unityeditor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4615f515ca94ae9e6b44b3d48f01b43984f28916"
+    },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 2,
